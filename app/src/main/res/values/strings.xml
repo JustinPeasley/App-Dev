@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Number Server</string>
+    <string name="button_text">Randomize</string>
+</resources>
