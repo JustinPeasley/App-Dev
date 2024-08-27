@@ -14,7 +14,6 @@ import androidx.core.view.WindowInsetsCompat;
 import java.util.Locale;
 import java.util.concurrent.ThreadLocalRandom;
 
-import kotlin.random.FallbackThreadLocalRandom;
 
 /**
  * Randomizes the number in a text view when user clicks a button
